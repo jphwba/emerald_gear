@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "emerald_gear",
+  "version": "${version}",
+  "name": "Emerald_Gear",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/emerald_gear/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.jphwba.emerald_gear.Main"
+    ]
+  },
+  "mixins": [
+    "emerald_gear.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "~26.2",
+    "fabric-api": "*"
+  }
+}
