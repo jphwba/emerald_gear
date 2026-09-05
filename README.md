@@ -5,11 +5,11 @@ A Fabric mod for Minecraft that adds a full set of emerald tools and armor, sitt
 ## Tools
 | Item | Attack Damage | Attack Speed | Mining Speed | Durability | Enchantability |
 |---|---|---|---|---|---|
-| Emerald Pickaxe | 5.0 | 1.0 | 5.0 | 455 | 22 |
-| Emerald Axe | 10.0 | -2.0 | 5.0 | 455 | 22 |
-| Emerald Shovel | 5.0 | -2.0 | 5.0 | 455 | 22 |
-| Emerald Hoe | 5.0 | -2.0 | 5.0 | 455 | 22 |
-| Emerald Sword | 7.5 | 1.0 | 5.0 | 455 | 22 |
+| Emerald Pickaxe | 6.0 | 5.0 | 5.0 | 455 | 22 |
+| Emerald Axe | 11.0 | 2.0 | 5.0 | 455 | 22 |
+| Emerald Shovel | 6.0 | 2.0 | 5.0 | 455 | 22 |
+| Emerald Hoe | 6.0 | 2.0 | 5.0 | 455 | 22 |
+| Emerald Sword | 8.5 | 5.0 | 5.0 | 455 | 22 |
 
 ## Armor
 | Piece | Armor Points | Base Durability Multiplier |
