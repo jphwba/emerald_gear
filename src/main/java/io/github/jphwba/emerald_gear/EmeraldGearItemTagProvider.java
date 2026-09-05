@@ -29,6 +29,14 @@ public class EmeraldGearItemTagProvider extends FabricTagsProvider.ItemTagsProvi
 
         builder(EmeraldArmorMaterial.REPAIRS_EMERALD_ARMOR)
                 .add(ItemIds.EMERALD);
+        builder(ItemTags.HEAD_ARMOR)
+                .add(ModItemIDs.EMERALD_HELMET);
+        builder(ItemTags.CHEST_ARMOR)
+                .add(ModItemIDs.EMERALD_CHESTPLATE);
+        builder(ItemTags.LEG_ARMOR)
+                .add(ModItemIDs.EMERALD_LEGGINGS);
+        builder(ItemTags.FOOT_ARMOR)
+                .add(ModItemIDs.EMERALD_LEGGINGS);
 
     }
 }
