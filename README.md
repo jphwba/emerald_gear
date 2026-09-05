@@ -44,3 +44,13 @@ You can also use an anvil to repair any items using emeralds.
 - Fabric Loader
 - Fabric API
 - Minecraft 26.2
+
+## Image Gallery
+<img width="1968" height="1325" alt="image" src="https://github.com/user-attachments/assets/a41ee566-9581-42fa-820e-140d75b18ab1" />
+<img width="1753" height="1245" alt="image" src="https://github.com/user-attachments/assets/c7fbbb05-a2a1-4d02-9790-ad48dbf97990" />
+<img width="1894" height="1263" alt="image" src="https://github.com/user-attachments/assets/6c92d14e-48e5-4c67-87c7-3d98a9fe7a03" />
+<img width="1965" height="1270" alt="image" src="https://github.com/user-attachments/assets/f498d075-4d9f-42ab-9a7d-efa5585c4119" />
+<img width="2026" height="1181" alt="image" src="https://github.com/user-attachments/assets/e1ff726b-b9fe-45e7-8638-256314f4b19d" />
+<img width="1048" height="982" alt="image" src="https://github.com/user-attachments/assets/8aa5829e-ed12-46f7-92b3-dc6e661dfb45" />
+
+
