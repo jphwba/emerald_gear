@@ -19,7 +19,7 @@ import java.util.Map;
 public class EmeraldArmorMaterial {
     public static final int BASE_DURABILITY = 528;
 
-    public static final ResourceKey<EquipmentAsset> EMERALD_ARMOR_MATERIAL_KEY = ResourceKey.create(EquipmentAssets.ROOT_ID, Identifier.fromNamespaceAndPath(Main.MOD_ID, "emerald"));
+    public static final ResourceKey<EquipmentAsset> EMERALD_ARMOR_MATERIAL_KEY = ResourceKey.create(EquipmentAssets.ROOT_ID, Identifier.fromNamespaceAndPath(Main.MOD_ID, "emerald_armor"));
     public static final TagKey<Item> REPAIRS_EMERALD_ARMOR = TagKey.create(BuiltInRegistries.ITEM.key(), Identifier.fromNamespaceAndPath(Main.MOD_ID, "repairs_emerald_armor"));
 
     public static final ArmorMaterial INSTANCE = new ArmorMaterial(
