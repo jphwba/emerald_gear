@@ -1,0 +1,11 @@
+// 26.2	-999999999-01-01T00:00:00	Emerald_Gear/Tags for minecraft:item
+8c4f379d97e2cd8c7f9297bf4fab7e60083ecb0d data/emerald_gear/tags/item/repairs_emerald_armor.json
+90163686785f2f0be10eed114fdc21c817111d89 data/minecraft/tags/item/axes.json
+1759785638b565936fec664e46e47c19ddc23257 data/minecraft/tags/item/chest_armor.json
+a1db8e30d513223390571380f8da452e2eb7dc9f data/minecraft/tags/item/foot_armor.json
+439d6dd74b6b79a02c1f4c40502ad3be669b74c6 data/minecraft/tags/item/head_armor.json
+b241846f092e91d5f8898283a5d1a51bb2e132de data/minecraft/tags/item/hoes.json
+837b355d07a57401b8e99ec180c8447fe290a69d data/minecraft/tags/item/leg_armor.json
+6f1c4f43342c4f6cb4ee0c01462f1643bdfb9866 data/minecraft/tags/item/pickaxes.json
+51049d9bddb43c5ff5e730007ad866a21bdc9749 data/minecraft/tags/item/shovels.json
+7407a9c2bc3dedf7d2066ca4252e24faea98953f data/minecraft/tags/item/swords.json

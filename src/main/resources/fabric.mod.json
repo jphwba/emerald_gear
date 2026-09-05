@@ -12,6 +12,9 @@
   "entrypoints": {
     "main": [
       "io.github.jphwba.emerald_gear.Main"
+    ],
+    "fabric-datagen": [
+      "io.github.jphwba.emerald_gear.EmeraldGearDataGenerator"
     ]
   },
   "mixins": [

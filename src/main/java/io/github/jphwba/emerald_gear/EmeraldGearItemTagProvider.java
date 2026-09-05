@@ -36,7 +36,7 @@ public class EmeraldGearItemTagProvider extends FabricTagsProvider.ItemTagsProvi
         builder(ItemTags.LEG_ARMOR)
                 .add(ModItemIDs.EMERALD_LEGGINGS);
         builder(ItemTags.FOOT_ARMOR)
-                .add(ModItemIDs.EMERALD_LEGGINGS);
+                .add(ModItemIDs.EMERALD_BOOTS);
 
     }
 }
